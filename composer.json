@@ -1,6 +1,7 @@
 {
-  "name": "woocommerce/FlexSlider",
-  "description": "An awesome, fully responsive jQuery slider toolkit.",
-  "keywords": ["flexslider","slider","jquery","woocommerce","automattic"],
-  "homepage": "https://github.com/woocommerce/FlexSlider"
+  "name": "levmyshkin/flexslider",
+  "description": "Fork from woocommerce/flexslider. An awesome, fully responsive jQuery slider toolkit.",
+  "license": "GPL-2.0-or-later",
+  "keywords": ["Drupal","EBT","flexslider","slider","jquery","woocommerce","automattic"],
+  "homepage": "https://github.com/levmyshkin/flexslider"
 }
