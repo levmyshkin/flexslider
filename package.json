@@ -1,16 +1,19 @@
 {
   "name": "flexslider",
-  "version": "2.7.2",
-  "description": "An awesome, fully responsive jQuery slider toolkit.",
+  "version": "2.7.4",
+  "type": "drupal-library",
+  "description": "Fork from woocommerce/flexslider. An awesome, fully responsive jQuery slider toolkit.",
   "main": "jquery.flexslider.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/woothemes/FlexSlider.git"
+    "url": "git+https://github.com/levmyshkin/flexslider.git"
   },
   "keywords": [
+    "Drupal",
+    "EBT",
     "flexslider",
     "jquery",
     "slider",
